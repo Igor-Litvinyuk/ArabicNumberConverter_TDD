@@ -35,4 +35,8 @@ public class ArabicToRomanNumberConverter {
     private String getDefaultRomanNumber() {
         return "";
     }
+
+    private String getTestString(){
+        return "testString";
+    }
 }
